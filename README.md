@@ -1,5 +1,5 @@
 # Flight-Booking-System
 
-BackEnd: MongoDB
-MiddleWare: Spring Boot
-FrontEnd: Angular
+1. BackEnd: MongoDB
+2. MiddleWare: Spring Boot
+3. FrontEnd: Angular
